@@ -30,7 +30,7 @@
     Input : Address=1
     Output: Byte 2,3,4,5
     	 
-	 
+	 sdram_clk is 180 degrees out of phase of the clk signal. 
 	 
 	 
 */
